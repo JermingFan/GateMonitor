@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GateMonitor" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Database='longhu';Data Source='localhost';User Id='root';Password='';Charset='utf8';</Value>
+    </Setting>
+    <Setting Name="AvatarPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://longhu.com:8080/avatar/</Value>
+    </Setting>
+    <Setting Name="AvatarExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.jpg</Value>
+    </Setting>
+    <Setting Name="DefaultGate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
